@@ -1,0 +1,12 @@
+h1{
+    background-color: red ;
+}
+.image{
+    width: 400px;
+    height: 200px;
+    background-image: url(./....);
+    color: rgb(red, green, blue);
+    background-repeat: no-repeat;
+    background-size: .....;
+    
+}
